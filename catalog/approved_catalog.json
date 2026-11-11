@@ -1,0 +1,20 @@
+{
+  "catalog_version": "2026.10",
+  "updated_at": "2026-10-31",
+  "items": [
+    {
+      "video_id": "aqz-KE-bpKQ",
+      "title": "Big Buck Bunny 60fps 4K - Official Blender Foundation Short Film",
+      "channel": "Blender",
+      "source_url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+      "approved_date": "2026-09-12"
+    },
+    {
+      "video_id": "eRsGyueVLvQ",
+      "title": "Sintel - Open Movie by Blender Foundation",
+      "channel": "Blender",
+      "source_url": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+      "approved_date": "2026-10-03"
+    }
+  ]
+}
