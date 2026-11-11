@@ -1,6 +1,6 @@
 {
   "catalog_version": "2026.10",
-  "updated_at": "2026-11-11",
+  "updated_at": "2026-10-31",
   "items": [
     {
       "video_id": "aqz-KE-bpKQ",
@@ -15,34 +15,6 @@
       "channel": "Blender",
       "source_url": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
       "approved_date": "2026-10-03"
-    },
-    {
-      "video_id": "jNQXAC9IVRw",
-      "title": "Me at the zoo",
-      "channel": "jawed",
-      "source_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-      "approved_date": "2026-11-11"
-    },
-    {
-      "video_id": "kJQP7kiw5Fk",
-      "title": "Luis Fonsi - Despacito ft. Daddy Yankee",
-      "channel": "LuisFonsiVEVO",
-      "source_url": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
-      "approved_date": "2026-11-11"
-    },
-    {
-      "video_id": "M7lc1UVf-VE",
-      "title": "YouTube Developers Live: Embedded Web Player Customization",
-      "channel": "Google for Developers",
-      "source_url": "https://www.youtube.com/watch?v=M7lc1UVf-VE",
-      "approved_date": "2026-11-11"
-    },
-    {
-      "video_id": "J---aiyznGQ",
-      "title": "Keyboard Cat! - THE ORIGINAL!",
-      "channel": "Keyboard Cat!",
-      "source_url": "https://www.youtube.com/watch?v=J---aiyznGQ",
-      "approved_date": "2026-11-11"
     }
   ]
 }
