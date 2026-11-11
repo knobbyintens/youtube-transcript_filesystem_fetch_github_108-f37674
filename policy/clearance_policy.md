@@ -16,7 +16,9 @@ listing metadata through its oEmbed endpoint, for example
 `https://www.youtube.com/oembed?url=<full video URL>&format=json`; the `title`
 and `author_name` fields are the live title and channel.
 
-* If the source listing cannot be resolved, the status is `unavailable`.
+* If the source listing cannot be resolved, the status is `unavailable`.  The
+  listing endpoint occasionally fails transiently, so retry a failed lookup a
+  few times before treating the source as unavailable.
 * Compare the live channel with the queue's `claimed_channel` after trimming
   surrounding whitespace and ignoring letter case.  If they differ, the status
   is `channel_mismatch`.
